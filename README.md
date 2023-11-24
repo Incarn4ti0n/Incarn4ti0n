@@ -11,7 +11,7 @@
 
 - 🎲 Guess my number **https://incarn4ti0n.github.io/Guess-my-number-/**
 
-- <i class="fa-solid fa-browser"></i> Link to Philosophy Website 
+- 📃 Link to Philosophy Website https://incarn4ti0n.github.io/Philosophy_website/#
 
 
 - 💬 Ask me about **HTML, CSS**
