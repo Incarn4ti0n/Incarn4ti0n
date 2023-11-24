@@ -1,3 +1,6 @@
+
+<script src="https://kit.fontawesome.com/36dcac192c.js" crossorigin="anonymous"></script>
+
 <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" alt="javascript" align="center">
 <h1 align="center">Hi 👋, I'm Daniel</h1>
 <h3 align="center">A passionate frontend developer from Poland 🇵🇱</h3>
@@ -23,6 +26,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.facebook.com/daniel.motejadded.7/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="daniel motejadded" height="30" width="40" /></a>
+
+ <a href="https://www.linkedin.com/in/daniel-motejadded-01b76a258/" /><i class="fa-brands fa-linkedin"></i> </a>    
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
