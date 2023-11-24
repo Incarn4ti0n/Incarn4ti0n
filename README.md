@@ -11,6 +11,9 @@
 
 - 🎲 Guess my number **https://incarn4ti0n.github.io/Guess-my-number-/**
 
+- <i class="fa-solid fa-browser"></i> Link to Philosophy Website 
+
+
 - 💬 Ask me about **HTML, CSS**
 
 - 📫 How to reach me **dmotejadded@interia.pl**
